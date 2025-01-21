@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URL_CallingApp", "URL_CallingApp.csproj", "{7A743848-DE23-4D7B-9F3B-10B67B3370B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A743848-DE23-4D7B-9F3B-10B67B3370B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A743848-DE23-4D7B-9F3B-10B67B3370B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A743848-DE23-4D7B-9F3B-10B67B3370B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A743848-DE23-4D7B-9F3B-10B67B3370B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD6421B-F4B9-49A1-AF46-E6FAE7DC8C9A}
+	EndGlobalSection
+EndGlobal
